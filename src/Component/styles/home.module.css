@@ -1,0 +1,12 @@
+.container{
+    flex-direction: column;
+    background-color: azure;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 60px;
+}
